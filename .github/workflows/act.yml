@@ -1,0 +1,2 @@
+- name: Setup nektos/act
+  uses: shubhbapna/setup-act@v2.0.0
